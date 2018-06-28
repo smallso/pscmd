@@ -11,6 +11,12 @@
 * pscmd.cpp 实现 pscmd 相关的 API，包含宽窄字符两个版本
 * pscmd.h 声明 pscmd 相关的 API 与数据类型
 
+### 依赖
+该项目依赖 Windows SDK 所提供的两个头文件，分别是：
+* windows.h
+* winternl.h
+另外，"pscmd.cpp" 中所 include 的 "stdafx.h" 预编译头，您可以根据应用的项目不同而移除，预编译头文件不包含在该项目中。
+
 ### 联系
 如您发现该项目存在 BUG 或缺陷，可以提交反馈。
 * E-mail    xiaoyy@altca.cn
