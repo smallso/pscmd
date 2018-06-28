@@ -7,6 +7,6 @@
 详细的使用方式请访问 https://www.xiaoyy.org/opensrc/19.html 获取
 
 ### 联系
-E-mail    xiaoyy@altca.cn
-WorkQQ   	20177621
-Website   https://www.xiaoyy.org/
+* E-mail    xiaoyy@altca.cn
+* WorkQQ   	20177621
+* Website   https://www.xiaoyy.org/
