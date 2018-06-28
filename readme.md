@@ -6,6 +6,11 @@
 ### 使用
 详细的使用方式请访问 SMALLSO Blog https://www.xiaoyy.org/opensrc/19.html 获取，文章中有详细对该项目的具体实现和使用方式进行介绍。另外，源代码中的许可证您可以忽略。
 
+### 文件
+* demo.cpp 演示如何使用 pscmd 提供的相关 API 获取指定进程的命令行字符串
+* pscmd.cpp 实现 pscmd 相关的 API，包含宽窄字符两个版本
+* pscmd.h 声明 pscmd 相关的 API 与数据类型
+
 ### 联系
 如您发现该项目存在 BUG 或缺陷，可以提交反馈。
 * E-mail    xiaoyy@altca.cn
