@@ -17,7 +17,7 @@
 * **winternl.h**
 
 ### 联系
-如您发现该项目存在 BUG 或缺陷，可以提交反馈。
+如您发现该项目存在 BUG 或缺陷，可以提 issues。
 * **E-mail**    xiaoyy@altca.cn
 * **WorkQQ**   	20177621
 * **Website**   https://www.xiaoyy.org/
